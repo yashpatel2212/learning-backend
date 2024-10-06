@@ -1,0 +1,15 @@
+{
+  "name": "backend-and-out",
+  "version": "1.0.0",
+  "description": "nop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "author": "yash patel",
+  "license": "ISC"
+}
